@@ -10,3 +10,5 @@ Test it out and see!
 Hi from Localization Lab sprint! 
 
 It's cool to have your own repo for Umbrella...
+
+It's better if you understand how it works! But don't be afraid, you have an Umbrella! 
